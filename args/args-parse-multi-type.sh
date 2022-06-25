@@ -24,7 +24,6 @@ do
         echo "invalid option file" 1>&2
         exit 1
       else 
-        echo "else $1"
         shift
         FILE_OPTION="$1"
       fi
