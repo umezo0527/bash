@@ -1,2 +1,5 @@
 # bash
-small code for bash language
+- title: bash sample and tips
+- description: put small sample code for bash.
+
+
